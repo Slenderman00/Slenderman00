@@ -16,3 +16,13 @@ Grindr Web Access is a python framework for interacting with the new grindr v4 a
 Grindr Web Access packaged for pip3
 
 ---
+
+### [Slenderman00.github.io](https://slenderman00.github.io)
+My homepage
+
+---
+
+### [joar.me](https://joar.me)
+A more experimental homepage that only consists of ASCII and ASCII extended chars
+
+---
