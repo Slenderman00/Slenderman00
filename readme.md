@@ -2,7 +2,7 @@
 
 ---
 
-### [VSIRC](https://github.com/Slenderman00/vsirc)
+### [Visual Studio Code IRC](https://github.com/Slenderman00/vsirc)
 VSIRC is an irc client made for visual studio code.
 
 ---
