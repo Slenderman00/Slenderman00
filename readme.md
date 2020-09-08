@@ -26,3 +26,8 @@ My homepage
 A more experimental homepage that only consists of ASCII and ASCII extended chars
 
 ---
+
+### [restrict.info](https://restrict.info/)
+A website for planning journies during covid-19
+
+---
