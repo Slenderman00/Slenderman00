@@ -28,6 +28,6 @@ A more experimental homepage that only consists of ASCII and ASCII extended char
 ---
 
 ### [restrict.info](https://restrict.info/)
-A website for planning journies during covid-19
+A website for planning journeys during covid-19
 
 ---
