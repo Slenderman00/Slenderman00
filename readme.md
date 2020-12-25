@@ -23,7 +23,7 @@ My homepage
 ---
 
 ### [joar.me](https://joar.me)
-DEPRICATED: A more experimental homepage that only consists of ASCII and ASCII extended chars
+DEPRECATED: A more experimental homepage that only consists of ASCII and ASCII extended chars
 
 ---
 
