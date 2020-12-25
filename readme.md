@@ -27,8 +27,8 @@ DEPRECATED: A more experimental homepage that only consists of ASCII and ASCII e
 
 ---
 
-### [restrict.info](https://restrict.info/)
-A website for planning journeys during covid-19
+### [restrict.info](https://github.com/Slenderman00/restrict)
+DEPRECATED: A website for planning journeys during covid-19
 
 ---
 ![Haunted pot](https://i.imgur.com/BLnRjO7.png)
