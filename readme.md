@@ -1,8 +1,8 @@
 # Welcome to my github, here are some projects you can check out:
 ---
-
 ### [PyTor](https://github.com/Slenderman00/PyTor)
 PyTor is a simple framework that enables the automatic creation of new Tor sessions.
+
 ---
 
 ### [Visual Studio Code IRC](https://github.com/Slenderman00/vsirc)
