@@ -1,5 +1,9 @@
 # Welcome to my github, here are some projects you can check out:
 ---
+### [Dritings](https://dritings.io)
+Create, share and edit your own drinking games.
+
+---
 ### [PyTor](https://github.com/Slenderman00/PyTor)
 PyTor is a simple framework that enables the automatic creation of new Tor sessions.
 
