@@ -30,7 +30,7 @@ My homepage
 ---
 
 ### [joar.me](https://joar.me)
-DEPRECATED: A more experimental homepage that only consists of ASCII and ASCII extended chars
+My portfolio
 
 ---
 
