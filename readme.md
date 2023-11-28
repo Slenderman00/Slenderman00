@@ -19,6 +19,11 @@ Grindr Web Access is a python framework for interacting with the new grindr v4 a
 
 ---
 
+### [Grindr Access](https://github.com/Slenderman00/grindr-access)
+Replaces Grindr Web Access.
+
+---
+
 ### [Pip Grindr Web Access](https://github.com/Slenderman00/Pip-Grindr-Web-Access)
 Grindr Web Access packaged for pip3
 
