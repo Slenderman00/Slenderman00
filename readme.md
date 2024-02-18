@@ -1,1 +1,1 @@
-[![](https://github-stats-slenderman00-b617028cc4d5.herokuapp.com/username/Slenderman00?)](https://joar.me)
+[![](https://stats.joar.me/username/slenderman00?)](https://joar.me)
